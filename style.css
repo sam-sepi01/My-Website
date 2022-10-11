@@ -1,3 +1,13 @@
 body {
     background-color: #1D2227;
 }
+
+
+
+p {
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    font-size: large;
+    font-weight: bold;
+}
+
