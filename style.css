@@ -2,7 +2,12 @@ body {
     background-color: #1D2227;
 }
 
-
+h1 {
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    font-size: xx-large;
+    font-weight: bold;
+}
 
 p {
     color: white;
